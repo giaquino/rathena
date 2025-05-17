@@ -9671,8 +9671,8 @@ struct Damage battle_calc_misc_attack(struct block_list *src,struct block_list *
 				RE_LVL_MDMOD(100);
 #else
 				md.damage = (sstatus->dex / 10 + sstatus->int_ / 2 + skill * 3 + 40) * 2;
-				if(mflag > 1) //Autocasted Blitz
-					nk.set(NK_SPLASHSPLIT);
+				//if(mflag > 1) //Autocasted Blitz
+				//	nk.set(NK_SPLASHSPLIT);
 #endif
 				if (skill_id == SN_FALCONASSAULT) {
 					//Div fix of Blitzbeat

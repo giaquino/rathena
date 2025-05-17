@@ -28,6 +28,7 @@ Thumbs.db
 *.o
 *.a
 *.vcxproj.user
+/out
 /char-server
 /csv2yaml
 /config.log
@@ -65,7 +66,7 @@ Thumbs.db
 /db/import
 
 # /conf/
-/conf/import
+# /conf/import
 /conf/msg_conf/import
 
 # /lib

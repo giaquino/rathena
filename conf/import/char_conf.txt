@@ -1,0 +1,12 @@
+userid: s1
+passwd: p1
+login_ip: 127.0.0.1
+login_port: 6900
+char_ip: 127.0.0.1
+char_port: 6121
+server_name: Ragnarok Server
+wisp_server_name: Ragnarok_Wisp
+pincode_enabled: no
+
+// Starting zeny for new characters
+start_zeny: 10000000

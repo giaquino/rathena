@@ -103,7 +103,7 @@ Body:
       Swordman: true
       Swordman_High: true
       Baby_Swordman: true
-    MaxWeight: 28000
+    MaxWeight: 280000
     HpFactor: 70
     SpIncrease: 200
     BonusStats:
@@ -147,7 +147,7 @@ Body:
       Mage: true
       Mage_High: true
       Baby_Mage: true
-    MaxWeight: 22000
+    MaxWeight: 220000
     HpFactor: 30
     SpIncrease: 600
     BonusStats:
@@ -191,7 +191,7 @@ Body:
       Archer: true
       Archer_High: true
       Baby_Archer: true
-    MaxWeight: 26000
+    MaxWeight: 260000
     HpFactor: 50
     SpIncrease: 200
     BonusStats:
@@ -235,7 +235,7 @@ Body:
       Acolyte: true
       Acolyte_High: true
       Baby_Acolyte: true
-    MaxWeight: 24000
+    MaxWeight: 240000
     HpFactor: 40
     SpIncrease: 500
     BonusStats:
@@ -279,7 +279,7 @@ Body:
       Merchant: true
       Merchant_High: true
       Baby_Merchant: true
-    MaxWeight: 28000
+    MaxWeight: 280000
     HpFactor: 40
     SpIncrease: 300
     BonusStats:
@@ -323,7 +323,7 @@ Body:
       Thief: true
       Thief_High: true
       Baby_Thief: true
-    MaxWeight: 24000
+    MaxWeight: 240000
     HpFactor: 50
     SpIncrease: 200
     BonusStats:
@@ -368,7 +368,7 @@ Body:
       Knight2: true
       Baby_Knight: true
       Baby_Knight2: true
-    MaxWeight: 28000
+    MaxWeight: 280000
     HpFactor: 150
     SpIncrease: 300
     BonusStats:
@@ -435,7 +435,7 @@ Body:
   - Jobs:
       Priest: true
       Baby_Priest: true
-    MaxWeight: 26000
+    MaxWeight: 260000
     HpFactor: 75
     SpIncrease: 800
     BonusStats:
@@ -502,7 +502,7 @@ Body:
   - Jobs:
       Wizard: true
       Baby_Wizard: true
-    MaxWeight: 24000
+    MaxWeight: 240000
     HpFactor: 55
     SpIncrease: 900
     BonusStats:
@@ -569,7 +569,7 @@ Body:
   - Jobs:
       Blacksmith: true
       Baby_Blacksmith: true
-    MaxWeight: 30000
+    MaxWeight: 300000
     HpFactor: 90
     SpIncrease: 400
     BonusStats:
@@ -636,7 +636,7 @@ Body:
   - Jobs:
       Hunter: true
       Baby_Hunter: true
-    MaxWeight: 27000
+    MaxWeight: 270000
     HpFactor: 85
     SpIncrease: 400
     BonusStats:
@@ -703,7 +703,7 @@ Body:
   - Jobs:
       Assassin: true
       Baby_Assassin: true
-    MaxWeight: 24000
+    MaxWeight: 240000
     HpFactor: 110
     SpIncrease: 400
     BonusStats:
@@ -772,7 +772,7 @@ Body:
       Crusader2: true
       Baby_Crusader: true
       Baby_Crusader2: true
-    MaxWeight: 28000
+    MaxWeight: 280000
     HpFactor: 110
     HpIncrease: 700
     SpIncrease: 470
@@ -840,7 +840,7 @@ Body:
   - Jobs:
       Monk: true
       Baby_Monk: true
-    MaxWeight: 26000
+    MaxWeight: 260000
     HpFactor: 90
     HpIncrease: 650
     SpIncrease: 470
@@ -908,7 +908,7 @@ Body:
   - Jobs:
       Sage: true
       Baby_Sage: true
-    MaxWeight: 24000
+    MaxWeight: 240000
     HpFactor: 75
     SpIncrease: 700
     BonusStats:
@@ -975,7 +975,7 @@ Body:
   - Jobs:
       Rogue: true
       Baby_Rogue: true
-    MaxWeight: 24000
+    MaxWeight: 240000
     HpFactor: 85
     SpIncrease: 500
     BonusStats:
@@ -1042,7 +1042,7 @@ Body:
   - Jobs:
       Alchemist: true
       Baby_Alchemist: true
-    MaxWeight: 30000
+    MaxWeight: 300000
     HpFactor: 90
     SpIncrease: 400
     BonusStats:
@@ -1109,7 +1109,7 @@ Body:
   - Jobs:
       Bard: true
       Baby_Bard: true
-    MaxWeight: 27000
+    MaxWeight: 270000
     HpFactor: 75
     HpIncrease: 300
     SpIncrease: 600
@@ -1177,7 +1177,7 @@ Body:
   - Jobs:
       Dancer: true
       Baby_Dancer: true
-    MaxWeight: 27000
+    MaxWeight: 270000
     HpFactor: 75
     HpIncrease: 300
     SpIncrease: 600
@@ -1307,7 +1307,7 @@ Body:
         Luk: 1
   - Jobs:
       Gunslinger: true
-    MaxWeight: 28000
+    MaxWeight: 280000
     HpFactor: 89
     HpIncrease: 0
     SpIncrease: 469
@@ -1362,7 +1362,7 @@ Body:
         Str: 1
   - Jobs:
       Ninja: true
-    MaxWeight: 26000
+    MaxWeight: 260000
     HpFactor: 80
     HpIncrease: 0
     SpIncrease: 540
@@ -1435,7 +1435,7 @@ Body:
   - Jobs:
       Lord_Knight: true
       Lord_Knight2: true
-    MaxWeight: 28000
+    MaxWeight: 280000
     HpFactor: 150
     SpIncrease: 300
     BonusStats:
@@ -1531,7 +1531,7 @@ Body:
         Str: 1
   - Jobs:
       High_Priest: true
-    MaxWeight: 26000
+    MaxWeight: 260000
     HpFactor: 75
     SpIncrease: 800
     BonusStats:
@@ -1627,7 +1627,7 @@ Body:
         Int: 1
   - Jobs:
       High_Wizard: true
-    MaxWeight: 24000
+    MaxWeight: 240000
     HpFactor: 55
     SpIncrease: 900
     BonusStats:
@@ -1723,7 +1723,7 @@ Body:
         Int: 1
   - Jobs:
       Whitesmith: true
-    MaxWeight: 30000
+    MaxWeight: 300000
     HpFactor: 90
     SpIncrease: 400
     BonusStats:
@@ -1819,7 +1819,7 @@ Body:
         Dex: 1
   - Jobs:
       Sniper: true
-    MaxWeight: 27000
+    MaxWeight: 270000
     HpFactor: 85
     SpIncrease: 400
     BonusStats:
@@ -1915,7 +1915,7 @@ Body:
         Luk: 1
   - Jobs:
       Assassin_Cross: true
-    MaxWeight: 24000
+    MaxWeight: 240000
     HpFactor: 110
     SpIncrease: 400
     BonusStats:
@@ -2012,7 +2012,7 @@ Body:
   - Jobs:
       Paladin: true
       Paladin2: true
-    MaxWeight: 28000
+    MaxWeight: 280000
     HpFactor: 110
     HpIncrease: 700
     SpIncrease: 470
@@ -2109,7 +2109,7 @@ Body:
         Agi: 1
   - Jobs:
       Champion: true
-    MaxWeight: 26000
+    MaxWeight: 260000
     HpFactor: 90
     HpIncrease: 650
     SpIncrease: 470
@@ -2206,7 +2206,7 @@ Body:
         Agi: 1
   - Jobs:
       Professor: true
-    MaxWeight: 24000
+    MaxWeight: 240000
     HpFactor: 75
     SpIncrease: 700
     BonusStats:
@@ -2302,7 +2302,7 @@ Body:
         Int: 1
   - Jobs:
       Stalker: true
-    MaxWeight: 24000
+    MaxWeight: 240000
     HpFactor: 85
     SpIncrease: 500
     BonusStats:
@@ -2398,7 +2398,7 @@ Body:
         Agi: 1
   - Jobs:
       Creator: true
-    MaxWeight: 30000
+    MaxWeight: 300000
     HpFactor: 90
     SpIncrease: 400
     BonusStats:
@@ -2494,7 +2494,7 @@ Body:
         Dex: 1
   - Jobs:
       Clown: true
-    MaxWeight: 27000
+    MaxWeight: 270000
     HpFactor: 75
     HpIncrease: 300
     SpIncrease: 600
@@ -2591,7 +2591,7 @@ Body:
         Str: 1
   - Jobs:
       Gypsy: true
-    MaxWeight: 27000
+    MaxWeight: 270000
     HpFactor: 75
     HpIncrease: 300
     SpIncrease: 600
@@ -2753,7 +2753,7 @@ Body:
         Luk: 1
   - Jobs:
       Taekwon: true
-    MaxWeight: 28000
+    MaxWeight: 280000
     HpFactor: 70
     SpIncrease: 200
     BonusStats:
@@ -2796,7 +2796,7 @@ Body:
   - Jobs:
       Star_Gladiator: true
       Star_Gladiator2: true
-    MaxWeight: 28000
+    MaxWeight: 280000
     HpFactor: 90
     HpIncrease: 650
     SpIncrease: 470
@@ -2863,7 +2863,7 @@ Body:
         Agi: 1
   - Jobs:
       Soul_Linker: true
-    MaxWeight: 24000
+    MaxWeight: 240000
     HpFactor: 75
     SpIncrease: 900
     BonusStats:
